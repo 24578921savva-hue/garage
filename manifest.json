@@ -1,0 +1,19 @@
+{
+  "name": "Гараж",
+  "short_name": "Гараж",
+  "description": "Офлайн-склад: гаражи, коробки, вещи",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121212",
+  "theme_color": "#1a1a1a",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjEwMCIgZmlsbD0iIzFhMWExYSIvPjxwYXRoIGQ9Ik0yNTYgMTEwYy00MCAwLTYwIDI1LTYwIDU1IDAgMjAgMTUgMzAgMzAgMzV2MTBjLTM1IDE1LTUwIDQwLTUwIDcwIDAgMTUgMTAgMjUgMjUgMjVsMTAtMTBjLTIwLTI1LTE1LTU1IDUgLTcwIDUtNSAxMC0xNSAxMC0yNSAwLTEwLTUtMjAtMTUtMjUgMjAgLTUgMzAtMjAgMzAtNDAgMC0yNS0yMC00NS00NS00NXptMCAyMGMxNSAwIDI1IDEwIDI1IDI1cy0xMCAyNS0yNSAyNS0yNS0xMC0yNS0yNSAxMC0yNSAyNS0yNXptMCAxMjBjLTQwIDAtNzAgMzAtNzAgNzB2MTEwaDE0MHYtMTEwYzAtNDAtMzAtNzAtNzAtNzB6bS03MCA3MGgxNDB2MjBINDE2djEwMEg5NlYzNDBoMjB2LTIweiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
